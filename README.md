@@ -1,3 +1,3 @@
 # 个人博客
 
-<a href="http:\\www.Fancywt.Fancywtgithub.io"> choose me </a>
+<a href="http://www.fancywt.fancywtgithub.io/"> choose me </a>
