@@ -29,6 +29,7 @@
         <legend>欢迎来到米奇妙妙屋</legend>
         <span>Username:</span>
         <input type="text" name="username"  maxlength="8" placeholder="请输入用户名" autocomplete="off">
+        <a href="https:\\www.Fancywt.github.io">点我</a>
 
 
     </fieldset>
